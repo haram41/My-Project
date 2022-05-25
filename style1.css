@@ -1,0 +1,35 @@
+h1{
+	text-align: center;
+	border: 10px solid #9170E4;
+}
+a.stylelink1 {
+    text-align: LEFT;
+	margin : 100px;
+	margin-right: 50px;
+    color: #9170E4;
+	font: bold 12px/50px Georgia, serif;
+	font-size: 100%;
+}
+h2{
+	
+	color: #9170E4;
+	Font-family: Lucida Console;
+	width: 400px;
+    padding: 10px;
+    margin-left: 480px;
+	border-style: ridge;
+	text-shadow: 3px 2px black;
+}
+.footer-section {
+    padding:25px 50px 25px 50px;
+    color:#000;
+    font-size:13px;
+      background-color: white;
+      text-align:right;
+       border-top:10px solid #9170E4;
+
+}
+
+    .footer-section a, .footer-section a:hover {
+        color:#000;
+    }
